@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+   <link rel="stylesheet">   
+    <style>
+      body {
+        font-family: 'Anton', serif;
+        font-size: 20px;
+      }
+    </style>
+    <meta charset="utf-8">
+    <title>Test Page</title>
+  </head>
+  <body>
+    <h1>I will be a Star</h1>
+    <h2>But I'm Not Cool</h2>
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap'" rel="stylesheet">
+    <h3>This is my valley of despair.</h3>
+    <img src="F:\Dysk E\HTML,CSS,JAVA\Html1\Pic\pic.1.png" alt="LGBT">
+
+    <p>Will be fine.</p>
+
+    <ul> <I'm a musican>
+      <li>vocalist</li>
+      <li>producer</li>
+      <li>programmer</li>
+    </ul>
+
+    <p>I will work with it.</p>
+
+    <p>Read how to do <a href="https://www.instructables.com/Command-Prompt-Matrix-NUMBERS/">Matrix</a> to learn even more about the CMB.</p>
+    <p>Read how to do <a href="https://github.com/mdn/beginner-html-site/blob/gh-pages/index.html">HTML</a> to learn even more about the HTML,CSS and JAVA.</p>
+  </body>
+</html>
